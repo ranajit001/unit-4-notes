@@ -1,3 +1,5 @@
+```javascrity
+
 module.exports = [
   {
     files: ["*.js"],
@@ -25,3 +27,4 @@ module.exports = [
     },
   },
 ];
+```
