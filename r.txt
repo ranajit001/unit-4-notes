@@ -1,7 +1,7 @@
 1  npm install swagger-autogen 
 2  npm install swagger-ui-express
 
-3  then create swagger.js file and inside that 
+3  then create swagger.js file and inside src
 
 4
 import swaggerAutogen from 'swagger-autogen';
